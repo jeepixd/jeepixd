@@ -4,8 +4,8 @@
 [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.33359.85929-blue.svg)](https://doi.org/10.13140/RG.2.2.33359.85929)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Publication-00CCBB?logo=researchgate&logoColor=white)](https://doi.org/10.13140/RG.2.2.33359.85929)
 
-> **Authors:** Jeevsan Shrestha
-> **Affiliation:** School of Engineering, Pokhara University  
+> **Author:** Jeevsan Shrestha<br>
+> **Affiliation:** School of Engineering, Pokhara University<br>
 > **Permanent DOI:** [`10.13140/RG.2.2.33359.85929`](https://doi.org/10.13140/RG.2.2.33359.85929)
 
 - **Core Problem:** Standard LLMs cannot run within strict 16–33ms frame budgets without game lag or hallucinated tactics.
