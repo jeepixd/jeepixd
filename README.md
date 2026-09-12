@@ -18,7 +18,7 @@
 ```bibtex
 @article{shrestha2025hybrid,
   title={A Hybrid Two-Tier Architecture for LLM-Assisted Adaptive Video Game Boss AI: A Confidence-Gated Approach to Real-Time Strategic Decision-Making on Consumer Hardware},
-  author={Shrestha, Jeevsan and Neupane, Kushal},
+  author={Shrestha, Jeevsan},
   journal={ResearchGate Preprint},
   year={2025},
   doi={10.13140/RG.2.2.33359.85929},
